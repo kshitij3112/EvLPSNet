@@ -1,2 +1,3 @@
 # EvLPSNet
-Official repository for our the paper: Uncertainty-aware LiDAR Panoptic Segmentation
+Official repository for our paper: Uncertainty-aware LiDAR Panoptic Segmentation
+Cancel changes
